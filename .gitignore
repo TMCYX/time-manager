@@ -1,0 +1,8 @@
+# Runtime data (your actual plans/tasks — keep local)
+time/inbox.md
+time/day/
+time/week/
+
+# OS
+.DS_Store
+Thumbs.db
